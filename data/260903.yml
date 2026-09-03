@@ -1,11 +1,13 @@
 about:
-  description: A port of OpenBSD's doas which runs on FreeBSD, Linux, NetBSD, and illumos
+  description:
+  |
+    A port of OpenBSD's doas which runs on FreeBSD, Linux, NetBSD, and illumos
   license: BSD-2-Clause
   homepage: 
   head: 8452488
   archived: true
   latestVersion: 6.3p12
-  collectedAt: 2026-09-03T05:23:56Z
+  collectedAt: 2026-09-03T22:36:53Z
 timeline:
   created: 2016-06-22
   lastCommit: 2025-09-06
@@ -24,7 +26,7 @@ language:
   Shell: 7650
   Yacc: 6955
   Makefile: 3192
-totalLine: 108950
+totalBytes: 108950
 recent:
   last30d:
     since: 2026-08-04
