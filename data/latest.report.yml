@@ -7,7 +7,7 @@ about:
   latestVersion: "6.3p12"
   latestRelease: "6.3p12"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:50:10Z
+  collectedAt: 2026-09-10T20:29:18Z
 timeline:
   created: 2016-06-22
   lastCommit: 2025-09-06
@@ -87,7 +87,7 @@ total:
   commit: 214
 ---
 path: /home/runner/.x-repo/github.com/slicer69/doas
-collectedAt: 2026-09-10T05:50:11Z
+collectedAt: 2026-09-10T20:29:19Z
 loc:
   C:
     code: 1239
