@@ -1,0 +1,61 @@
+- repo: aur
+  srcname: doas
+  binname: doas
+  visiblename: doas
+  version: "6.4"
+  origversion: 6.4-4
+  status: newest
+  summary: A port of OpenBSD's doas which runs on FreeBSD, Linux, NetBSD, illumos, macOS and MidnightBSD
+  maintainers:
+    - unbreakablemj@aur
+  licenses:
+    - BSD
+- repo: freebsd
+  srcname: security/doas
+  binname: doas
+  visiblename: security/doas
+  version: "6.4"
+  origversion: null
+  status: newest
+  summary: Simple sudo alternative to run commands as another user
+  maintainers:
+    - jsmith@resonatingmedia.com
+  categories:
+    - security
+- repo: macports
+  srcname: sysutils/doas
+  binname: doas
+  visiblename: doas
+  version: 6.3p13
+  origversion: null
+  status: outdated
+  summary: a utility that lets a user run a command as another user
+  maintainers:
+    - ryandesign@macports
+    - ryandesign@github
+  licenses:
+    - BSD
+  categories:
+    - sysutils
+- repo: ravenports
+  srcname: doas
+  binname: doas
+  visiblename: doas
+  version: "6.4"
+  origversion: null
+  status: newest
+  summary: Simple sudo alternative
+  maintainers:
+    - omar.polo@europecom.net
+  categories:
+    - security
+- repo: slackbuilds
+  srcname: system/doas
+  visiblename: system/doas
+  version: "6.4"
+  origversion: null
+  status: newest
+  maintainers:
+    - ricardsonwilliams+slackbuild@gmail.com
+  categories:
+    - system
