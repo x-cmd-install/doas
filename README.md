@@ -26,6 +26,16 @@ Total: **2,598** lines of code across **23** files in the top 5 languages.
 | Sh | 242 | 46 | 52 | 2 |
 | Makefile | 92 | 5 | 12 | 1 |
 
+## OpenSSF Scorecard
+
+Overall score: **4.7 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (2/10) — Found 3/13 approved changesets -- score normalized to 2
+- **Maintained** (0/10) — project is archived
+- **Packaging** (-1/10) — packaging workflow not detected
+
 ## Source
 
 - **Upstream**: <https://github.com/slicer69/doas>
@@ -48,12 +58,12 @@ Total: **2,598** lines of code across **23** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-27 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-28 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-12-03 | 0 | 2 | 0 | 1 | 0 | 8 |
+| 30d | 2026-10-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-28 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-29 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-12-04 | 0 | 2 | 0 | 1 | 0 | 8 |
 
 ## Distribution status
 
@@ -68,4 +78,4 @@ Install metadata for doas lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T10:29:23Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T11:28:51Z._
